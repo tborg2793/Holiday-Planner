@@ -14,3 +14,5 @@ done in a simpler way. The participants walked away from the program with a
 sense of hope that they will be able to utilize this program in the near future. 
 
 Usage of Google Maps API, Google Places API, a self programmed genetic algorithm and a payment gateway example using Paypal API and sandbox.
+
+Write up: https://github.com/tborg2793/Holiday-Planner/blob/main/Holiday-Planner%20Write%20Up.pdf
